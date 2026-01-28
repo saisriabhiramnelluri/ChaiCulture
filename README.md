@@ -12,7 +12,7 @@ This landing page captures the essence of Chai Culture - a brand that brings the
 
 ## Live Demo
 
-**[View Live Site](YOUR_VERCEL_URL_HERE)**
+**[View Live Site](https://chai-culture-azure.vercel.app/)**
 
 ---
 
